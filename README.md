@@ -20,6 +20,3 @@ An AI system that converts natural language questions into SQL, runs them on Pos
 - Total energy usage by year
 - Top 5 postal codes
 - Highest district consumption
-
-## Author
-Pooja Nainani
